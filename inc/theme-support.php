@@ -32,7 +32,7 @@ function zurb_foundation_theme_support() {
 	add_theme_support('widget-customizer');
 
 	// Disable the admin bar, set to true if you want it to be visible.
-	show_admin_bar(FALSE);
+	show_admin_bar(TRUE);
 
 	// Declare Woocommerce support
 	add_theme_support( 'woocommerce' );

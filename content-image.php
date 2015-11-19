@@ -1,6 +1,6 @@
 <?php
 /**
- * The template for displaying posts in the Image post format
+ * the template for displaying posts in the image post format
  *
  * @package WordPress
  * @subpackage ZURB Foundation
